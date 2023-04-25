@@ -172,7 +172,6 @@ public class BST {
      * @param val The value ot insert
      */
     public void insert(int val) {
-        // TODO: Complete insert
         BSTNode node = new BSTNode(val);
         helpInsert(val, root, node);
     }
