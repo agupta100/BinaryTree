@@ -1,6 +1,6 @@
 /**
  * The Node for an Integer Binary Tree
- *
+ * Represents the qualities of a particular node
  * @author: Nandhini Namasivayam
  * @version: 03/22/22
  */
